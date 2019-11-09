@@ -63,8 +63,8 @@ nav {
 #aside {
     background: #ebebeb;
     color: #777;
-    float: left;
-    width: 407px;
+    float: right;
+    width: 50%;
     margin-top: 5px;
     height: 350px;
 }
